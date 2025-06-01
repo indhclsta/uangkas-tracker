@@ -9,7 +9,7 @@ Aplikasi pencatatan uang kas sederhana berbasis **PHP (Frontend)** dan **Golang 
 - Menambahkan pemasukan dan pengeluaran.
 - Menampilkan riwayat transaksi (dengan pagination).
 
-## 🛠️ Teknologi
+## Teknologi
 
 - **Frontend**: PHP (tanpa framework), HTML, CSS (custom style).
 - **Backend API**: Golang (Go).
